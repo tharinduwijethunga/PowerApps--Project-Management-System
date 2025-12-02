@@ -1,5 +1,56 @@
 # PowerApps--Project-Management-System
 
+Project and Task Management Application – Portfolio Overview
+
+The Project and Task Management Application is a Power Apps solution designed to streamline project coordination, task tracking, and performance monitoring across the organization. The system allows employees to record their daily activities, while project managers oversee project progress and management teams monitor overall performance and project health.
+
+Key Features
+* User Features
+
+Daily Task Logging
+Employees can record their daily work, time spent, and progress updates.
+
+Task Overview
+View all assigned tasks, including pending, in-progress, and completed activities.
+
+Project Visibility
+Access project details, timelines, and related information for better task alignment.
+
+* Project Manager Features
+
+Task Review & Adjustments
+Review daily task updates submitted by users and make necessary corrections or feedback.
+
+Project Creation & Management
+Add new projects, update project details, or remove completed/on-hold projects.
+
+User & Project Assignment
+Assign users to projects, manage user roles, and distribute tasks across the team.
+
+Progress Monitoring
+Track project status, task completion rates, and team workload through real-time dashboards.
+
+* Management Features
+
+Project Status Monitoring
+Overview of all ongoing projects, milestones, bottlenecks, and overall performance.
+
+Employee Performance Insights
+Assess employee productivity, track daily task contributions, and analyze performance trends.
+
+Operational Decision Support
+Access data-driven insights for strategic planning, resource allocation, and project forecasting.
+
+* Purpose & Benefits
+
+Centralized platform for managing projects, tasks, and team activities.
+
+Enhances visibility and communication between employees, project managers, and management.
+
+Improves accountability and ensures timely task completion.
+
+Reduces manual reporting and provides accurate real-time data for better decision-making.
+
 
 <img width="1777" height="1006" alt="Screenshot 2025-10-28 114510" src="https://github.com/user-attachments/assets/a5ec1fb7-76fc-4108-82cd-f502c0444b35" />
 <img width="1776" height="1002" alt="Screenshot 2025-10-28 114649" src="https://github.com/user-attachments/assets/8d46f394-b7bb-4bea-85c2-8b7081a5bee2" />
